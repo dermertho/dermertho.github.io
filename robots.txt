@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dermertho.github.io/sitemap.html.gz
+Sitemap: https://dermertho.github.io/app/sitemap.html.gz
+Sitemap: https://dermertho.github.io/assets/sitemap.html.gz
+Sitemap: https://dermertho.github.io/css/sitemap.html.gz
+Sitemap: https://dermertho.github.io/includes/sitemap.html.gz
+Sitemap: https://dermertho.github.io/item/sitemap.html.gz
+Sitemap: https://dermertho.github.io/src/sitemap.html.gz
